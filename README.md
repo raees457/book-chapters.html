@@ -1,1 +1,2 @@
 # book-chapters.html
+delete
